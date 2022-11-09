@@ -1,0 +1,13 @@
+label,h3{
+    color: aliceblue;
+}
+label{
+    font-size: 18px;
+    font-weight: 700;
+}
+.form-box{
+    background-color: rgb(37, 27, 65);
+    padding: 20px 10px;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
